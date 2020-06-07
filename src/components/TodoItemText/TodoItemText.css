@@ -1,0 +1,14 @@
+.todo__text {
+    padding-left: 10px;
+    background: #333;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Poiret One', cursive;
+    resize: none;
+    border: none;
+    width: 60%;
+    overflow: hidden;
+}
+.todo__text:focus{
+    outline: none;
+}

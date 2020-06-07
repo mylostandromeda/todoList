@@ -1,0 +1,10 @@
+.todo__input {
+    height: 70px;
+    font-size: 40px;
+    outline: none;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    font-family: 'Poiret One', cursive;
+}

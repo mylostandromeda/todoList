@@ -1,0 +1,13 @@
+.todo {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+    color: #fff;
+    font-family: 'Luckiest Guy', cursive;
+    letter-spacing: 5px;
+}

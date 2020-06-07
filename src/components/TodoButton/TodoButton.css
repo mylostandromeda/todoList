@@ -1,0 +1,15 @@
+.todo__btn {
+    outline: none;
+    padding: 10px 15px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.todo__btn_delete {
+    background: #e23636;
+}
+
+.todo__btn_edit {
+    background: #0ea432;
+}
